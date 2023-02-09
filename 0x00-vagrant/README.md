@@ -1,1 +1,2 @@
-This is my ubuntu README
+This project is about how to create and setup a Git and Github account and how to create a repository, directories inside this repo and it's files. 
+For this project, we will work with vagrant wich is an open-source tool that helps us to automate the creation and management of Virtual Machines. In a nutshell, we can specify the configuration of a virtual machine in a simple configuration file, and Vagrant creates the same Virtual machine using just one simple command. It provides command-line interfaces to automate such tasks. 
